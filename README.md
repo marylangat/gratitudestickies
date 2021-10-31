@@ -1,4 +1,6 @@
 # gratitudestickies
+![gratitudestickies](https://user-images.githubusercontent.com/88953346/139604298-fe6ac858-551e-4c60-a6a7-4eb5ed42e7d4.gif)
+
 
 # **Goal**
 Create an app where users can access, update, and interact with a messageboard filled with messages of gratitude. 
